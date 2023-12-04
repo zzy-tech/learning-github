@@ -8,6 +8,7 @@ class LearningGithubApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("OK");
 	}
 
 }
